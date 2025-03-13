@@ -2,10 +2,21 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/71c92552-f6b1-4d98-8165-36ce589b8e10" alt="Chainstarters">
+</p> 
+
+<p align="center"> ¡Hola! Soy Luis, un entusiasta de la tecnología apasionado por cómo las herramientas digitales pueden transformar la vida de las personas. Me encanta explorar nuevas tecnologías y aprender cada día algo nuevo, ya sea a través de la programación, el desarrollo de software o simplemente investigando las últimas tendencias en el mundo tech.<br><br>
+Siempre estoy buscando nuevas oportunidades para aprender, colaborar y seguir creciendo en este increíble mundo digital.</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A6FF&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Luis+👋;Apasionado+por+la+tecnología+y+el+desarrollo💻🌐;buscando+nuevas+oportunidades+para+aprender📝✍️" />
 </p>
 
-<br>¡Hola! Soy Luis, un entusiasta de la tecnología apasionado por cómo las herramientas digitales pueden transformar la vida de las personas. Me encanta explorar nuevas tecnologías y aprender cada día algo nuevo, ya sea a través de la programación, el desarrollo de software o simplemente investigando las últimas tendencias en el mundo tech.<br><br>
-Siempre estoy buscando nuevas oportunidades para aprender, colaborar y seguir creciendo en este increíble mundo digital.
+
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Teclado animado">
+</p>
+
 
 
 # 💻 Tech Stack:

@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-![Uploading Chainstarters.gif…]()
+
 
 
 <br>¡Hola! Soy Luis, un entusiasta de la tecnología apasionado por cómo las herramientas digitales pueden transformar la vida de las personas. Me encanta explorar nuevas tecnologías y aprender cada día algo nuevo, ya sea a través de la programación, el desarrollo de software o simplemente investigando las últimas tendencias en el mundo tech.<br><br>Tengo experiencia trabajando con diferentes lenguajes de programación y plataformas, y disfruto creando soluciones prácticas que no solo resuelven problemas, sino que también aportan valor a las personas que las usan. Lo que más me motiva es poder contribuir con mi conocimiento a proyectos que impacten positivamente.<br><br>Cuando no estoy inmerso en el código, me encontrarás explorando nuevas formas de optimizar procesos, experimentando con nuevas ideas o conectando con otros entusiastas de la tecnología.<br><br>Siempre estoy buscando nuevas oportunidades para aprender, colaborar y seguir creciendo en este increíble mundo digital.

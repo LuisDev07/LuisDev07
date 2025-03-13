@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-![El trabajo de un diseñador gráfico de un día, en gifs](https://github.com/user-attachments/assets/fb2a47f5-0b6a-4e69-9db2-e5f180aec723)
 
-![About me](https://github.com/user-attachments/assets/89748ae3-4d81-4efa-86a0-1d76a068d26a)
 
 ![Chainstarters](https://github.com/user-attachments/assets/71c92552-f6b1-4d98-8165-36ce589b8e10)
 

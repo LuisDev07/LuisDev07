@@ -1,7 +1,10 @@
 # 💫 About Me:
 
+![El trabajo de un diseñador gráfico de un día, en gifs](https://github.com/user-attachments/assets/fb2a47f5-0b6a-4e69-9db2-e5f180aec723)
 
+![About me](https://github.com/user-attachments/assets/89748ae3-4d81-4efa-86a0-1d76a068d26a)
 
+![Chainstarters](https://github.com/user-attachments/assets/71c92552-f6b1-4d98-8165-36ce589b8e10)
 
 
 <br>¡Hola! Soy Luis, un entusiasta de la tecnología apasionado por cómo las herramientas digitales pueden transformar la vida de las personas. Me encanta explorar nuevas tecnologías y aprender cada día algo nuevo, ya sea a través de la programación, el desarrollo de software o simplemente investigando las últimas tendencias en el mundo tech.<br><br>Tengo experiencia trabajando con diferentes lenguajes de programación y plataformas, y disfruto creando soluciones prácticas que no solo resuelven problemas, sino que también aportan valor a las personas que las usan. Lo que más me motiva es poder contribuir con mi conocimiento a proyectos que impacten positivamente.<br><br>Cuando no estoy inmerso en el código, me encontrarás explorando nuevas formas de optimizar procesos, experimentando con nuevas ideas o conectando con otros entusiastas de la tecnología.<br><br>Siempre estoy buscando nuevas oportunidades para aprender, colaborar y seguir creciendo en este increíble mundo digital.

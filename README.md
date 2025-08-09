@@ -1,8 +1,9 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71c92552-f6b1-4d98-8165-36ce589b8e10" alt="Chainstarters">
+ <img width="612" height="407" alt="Profile" src="https://github.com/user-attachments/assets/e08008ea-812a-4a06-b14d-b49c796f9604"  />
 </p> 
+
 
 <p align="center"> ¡Hola! Soy Luis, un entusiasta de la tecnología apasionado por cómo las herramientas digitales pueden transformar la vida de las personas. Me encanta explorar nuevas tecnologías y aprender cada día algo nuevo, ya sea a través de la programación, el desarrollo de software o simplemente investigando las últimas tendencias en el mundo tech.<br><br>
 Siempre estoy buscando nuevas oportunidades para aprender, colaborar y seguir creciendo en este increíble mundo digital.</p>

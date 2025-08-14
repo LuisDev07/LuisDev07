@@ -2,8 +2,10 @@
 
 # 💫 About Me
 
+
+
 <p align="center">
- <img width="612" height="407" alt="Profile" src="https://github.com/user-attachments/assets/e08008ea-812a-4a06-b14d-b49c796f9604"  />
+ <img width="500" height="500" alt="profiles" src="https://github.com/user-attachments/assets/fae88062-e23c-49bb-a0bc-2174ab653e89" />
 </p> 
 
 <p align="center">

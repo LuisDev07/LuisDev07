@@ -1,16 +1,16 @@
+
 ---
-
-# 💫 About Me
-
-
+<p align="center"> El mayor miedo de empezar es el fracaso. </p>
 
 <p align="center">
- <img width="400" height="400" alt="profiles" src="https://github.com/user-attachments/assets/fae88062-e23c-49bb-a0bc-2174ab653e89" />
+<img width="1200" height="549" alt="3cb121100344af53350cd5d484218b6d" src="https://github.com/user-attachments/assets/d650e0f6-0b66-4392-89db-9da7253f6af5" />
 </p> 
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=ffffff&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Luis+👋;Creo+soluciones+con+código+limpio+y+eficiente+💻✨;Explorando+nuevas+tecnologías+y+aprendiendo+cada+día+📚🚀;Buscando+transformar+ideas+en+realidad+🌐🛠️" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=ffffff&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Luis+👋;Junior+dev+|+aprendiendo+mientras+construyo+🛠️;Explorando+nuevas+tecnologías+cada+día+📚🚀;Un+commit+a+la+vez+🚀" />
+</p>   
 
 ---
 
